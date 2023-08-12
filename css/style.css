@@ -52,7 +52,7 @@
 }
 
 .header {
-  /* bu yorum satırı css dosyasına gelir*/
+  
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -557,4 +557,4 @@ button, i {
   cursor: pointer;
 }
 
-/*# sourceMappingURL=style.css.map */
+
